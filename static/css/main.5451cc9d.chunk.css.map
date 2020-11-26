@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,iBACE,iBACF","file":"main.5451cc9d.chunk.css","sourcesContent":["@import 'bulma/css/bulma.css';\n\n.welcome-content{\n  text-align: center;\n}"]}
